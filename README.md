@@ -6,16 +6,16 @@
 I’m passionate about exploring biological systems through computation — combining genomics, spatial transcriptomics, and data-driven approaches to understand gene regulation, cellular diversity, and cancer biology.
 
 My experience spans:  
-- 🧠 **Single-cell and spatial transcriptomics**  
-- 🧩 **Gene expression regulation** (skin ageing, alternative splicing, mutually exclusive exons)  
-- 🔬 **Protein structure prediction and bioinformatics algorithms**  
-- 🧮 **Statistical and machine learning analysis**
+- **Single-cell and spatial transcriptomics**  
+- **Gene expression regulation** (skin ageing, alternative splicing, mutually exclusive exons)  
+- **Protein structure prediction and bioinformatics algorithms**  
+- **Statistical and machine learning analysis**
 
 ---
 
 # 💻 Technical Background 
 
-## 🧰 Programming Languages and Tools
+## Programming Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -31,7 +31,7 @@ My experience spans:
 ![Scanpy](https://img.shields.io/badge/Scanpy-13B5EA?style=for-the-badge&logo=python&logoColor=white)
 ![Biopython](https://img.shields.io/badge/Biopython-306998?style=for-the-badge&logo=python&logoColor=white)
 
-## 🧪 Data Skills
+## Data Skills
 
 
 - **Multimodal data handling (RNA-seq, exome, single-cell, etc.)**
@@ -49,10 +49,10 @@ My experience spans:
 
 ### 📘 Selected Projects  
 
-#### 🧬 [scRNA-seq Analysis of Skin Aging (IGFL)](https://github.com/Kushgulati09/scRNA-seq-analysis_IGFL)  
+#### [scRNA-seq Analysis of Skin Aging (IGFL)](https://github.com/Kushgulati09/scRNA-seq-analysis_IGFL)  
 Processing and analysis pipeline for 10x Genomics skin samples, using `Scanpy`. Includes QC, clustering, and differential expression workflows.  
 
-#### 🧩 [Protein Depth and Protrusion Algorithms (IISER Mohali)](https://github.com/Kushgulati09/protein-algorithms)  
+#### [Protein Depth and Protrusion Algorithms (IISER Mohali)](https://github.com/Kushgulati09/protein-algorithms)  
 Reimplementation and benchmarking of algorithms for protein depth/protrusion calculations to study structural characteristics of domain-domain interfaces.  
 
 *(More repositories in progress — stay tuned!)*  
@@ -60,7 +60,7 @@ Reimplementation and benchmarking of algorithms for protein depth/protrusion cal
 ---
 
 ## 🌐 Connect
-Feel free to contact me, I would be delighted to connect.
+Feel free to contact me. I would be delighted to connect.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush-gulati-41076b254/)   
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-informational)](mailto:kush9kush@gmail.com)
