@@ -11,6 +11,8 @@ My experience spans:
 - **Protein structure prediction and bioinformatics algorithms**  
 - **Statistical and machine learning analysis**
 
+(Due to the confidential nature of my current role, recent work is not publicly available on GitHub.)
+
 ---
 
 # 💻 Technical Background 
